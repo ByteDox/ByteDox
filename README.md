@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Byte
 
-I'm an aspiring front end and back-end developer with experience in HTML, CSS, JavaScript, Python and a touch of PHP. I enjoy building websites that I can eventually evolve into full software applications that have clean interfaces, smooth flows and code that is organised. I also enjoy that satisfaction of hunting down bugs and solving those frustrating problems that stop things from running properly
+I'm an aspiring full-stack developer with experience in HTML, CSS, JavaScript, Python and a touch of PHP. I enjoy building websites that I can eventually evolve into full software applications that have clean interfaces, smooth flows and code that is organised. I also enjoy that satisfaction of hunting down bugs and solving those frustrating problems that stop things from running properly
 
 Right now, I'm working on a meal planning app called Xelos. It's a side project that’s slowly shaping into something I'm proud of. Alongside that, I'm a university student currently studying Information Technology, which is helping me fill the gaps, gain experience in different topics and sharpen my skills.
 
